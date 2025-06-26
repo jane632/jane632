@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jane Wanjiku</h1>
-<h3 align="center">A passionate data scientist/data analyst from Kenya, dedicated to uncovering insights, solving complex problems, and driving data-driven decisions through analytics, machine learning, and statistical modeling.</h3>
+<h1 align="center">Hi, I'm Jane Wanjiku</h1>
+<h3 align="center">data scientist|data analyst|Excel|SQL|Python|machine learning|statistical modeling.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jane632&label=Profile%20views&color=0e75b6&style=flat" alt="jane632" /> </p>
 
